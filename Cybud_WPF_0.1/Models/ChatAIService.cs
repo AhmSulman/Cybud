@@ -10,9 +10,8 @@ namespace Cybud_WPF_0._1.Models
 {
     public class ChatAIService
     {
-        // sk-idHroRBIE_imfWHlp51PseP6R82lUdqAj9ZkDcRm86T3BlbkFJpD5esr1azj4wqWlGZcTwLGHMkQLuiinDEDUqC5iNIA
-        // Authorization: Bearer sk-idHroRBIE_imfWHlp51PseP6R82lUdqAj9ZkDcRm86T3BlbkFJpD5esr1azj4wqWlGZcTwLGHMkQLuiinDEDUqC5iNIA
-        private readonly string _apiKey = "sk-idHroRBIE_imfWHlp51PseP6R82lUdqAj9ZkDcRm86T3BlbkFJpD5esr1azj4wqWlGZcTwLGHMkQLuiinDEDUqC5iNIA";  // Your API Key
+        // 
+        private readonly string _apiKey = "";  // Your API Key
 
         // Method to send user input and get AI response asynchronously
         public async Task<string> GetAIResponseAsync(string userInput)
