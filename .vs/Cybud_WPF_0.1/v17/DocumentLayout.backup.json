@@ -1,0 +1,303 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|c:\\users\\ahmed\\source\\repos\\cybud_wpf_0.1\\cybud_wpf_0.1\\viewmodels\\chataiserviceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|solutionrelative:cybud_wpf_0.1\\viewmodels\\chataiserviceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\cybud_wpf_0.1\\models\\chataiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|solutionrelative:cybud_wpf_0.1\\models\\chataiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\cybud_wpf_0.1\\views\\chat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|solutionrelative:cybud_wpf_0.1\\views\\chat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\cybud_wpf_0.1\\views\\chat.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|solutionrelative:cybud_wpf_0.1\\views\\chat.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\cybud_wpf_0.1\\views\\landingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|solutionrelative:cybud_wpf_0.1\\views\\landingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\cybud_wpf_0.1\\views\\landingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|solutionrelative:cybud_wpf_0.1\\views\\landingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\cybud_wpf_0.1\\pythonai\\chatapi.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|solutionrelative:cybud_wpf_0.1\\pythonai\\chatapi.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\cybud_wpf_0.1\\models\\financemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|solutionrelative:cybud_wpf_0.1\\models\\financemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\cybud_wpf_0.1\\viewmodels\\journalviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|solutionrelative:cybud_wpf_0.1\\viewmodels\\journalviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\cybud_wpf_0.1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|solutionrelative:cybud_wpf_0.1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\cybud_wpf_0.1\\views\\financemanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|solutionrelative:cybud_wpf_0.1\\views\\financemanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\cybud_wpf_0.1\\views\\journalview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|solutionrelative:cybud_wpf_0.1\\views\\journalview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\cybud_wpf_0.1\\views\\journalview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|solutionrelative:cybud_wpf_0.1\\views\\journalview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\cybud_wpf_0.1\\viewmodels\\scheduleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|solutionrelative:cybud_wpf_0.1\\viewmodels\\scheduleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\cybud_wpf_0.1\\viewmodels\\financeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|solutionrelative:cybud_wpf_0.1\\viewmodels\\financeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\cybud_wpf_0.1\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|solutionrelative:cybud_wpf_0.1\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\cybud_wpf_0.1\\views\\schedule.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|solutionrelative:cybud_wpf_0.1\\views\\schedule.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\cybud_wpf_0.1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A37106D-590C-4053-B6DC-1425D01527B9}|Cybud_WPF_0.1\\Cybud_WPF_0.1.csproj|solutionrelative:cybud_wpf_0.1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 223,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Views\\Chat.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\Views\\Chat.xaml.cs",
+              "RelativeDocumentMoniker": "Cybud_WPF_0.1\\Views\\Chat.xaml.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\Views\\Chat.xaml.cs",
+              "RelativeToolTip": "Cybud_WPF_0.1\\Views\\Chat.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAWwCYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T05:05:42.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatAiServiceViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\ViewModels\\ChatAiServiceViewModel.cs",
+              "RelativeDocumentMoniker": "Cybud_WPF_0.1\\ViewModels\\ChatAiServiceViewModel.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\ViewModels\\ChatAiServiceViewModel.cs",
+              "RelativeToolTip": "Cybud_WPF_0.1\\ViewModels\\ChatAiServiceViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T04:57:06.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Chatapi.py",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\PythonAi\\Chatapi.py",
+              "RelativeDocumentMoniker": "Cybud_WPF_0.1\\PythonAi\\Chatapi.py",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\PythonAi\\Chatapi.py",
+              "RelativeToolTip": "Cybud_WPF_0.1\\PythonAi\\Chatapi.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-10-13T04:40:10.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JournalView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\Views\\JournalView.xaml.cs",
+              "RelativeDocumentMoniker": "Cybud_WPF_0.1\\Views\\JournalView.xaml.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\Views\\JournalView.xaml.cs",
+              "RelativeToolTip": "Cybud_WPF_0.1\\Views\\JournalView.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADgvx0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T21:59:42.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JournalViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\ViewModels\\JournalViewModel.cs",
+              "RelativeDocumentMoniker": "Cybud_WPF_0.1\\ViewModels\\JournalViewModel.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\ViewModels\\JournalViewModel.cs",
+              "RelativeToolTip": "Cybud_WPF_0.1\\ViewModels\\JournalViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:17:54.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ScheduleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\ViewModels\\ScheduleViewModel.cs",
+              "RelativeDocumentMoniker": "Cybud_WPF_0.1\\ViewModels\\ScheduleViewModel.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\ViewModels\\ScheduleViewModel.cs",
+              "RelativeToolTip": "Cybud_WPF_0.1\\ViewModels\\ScheduleViewModel.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:25:15.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FinanceViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\ViewModels\\FinanceViewModel.cs",
+              "RelativeDocumentMoniker": "Cybud_WPF_0.1\\ViewModels\\FinanceViewModel.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\ViewModels\\FinanceViewModel.cs",
+              "RelativeToolTip": "Cybud_WPF_0.1\\ViewModels\\FinanceViewModel.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:24:58.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\Models\\Schedule.cs",
+              "RelativeDocumentMoniker": "Cybud_WPF_0.1\\Models\\Schedule.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\Models\\Schedule.cs",
+              "RelativeToolTip": "Cybud_WPF_0.1\\Models\\Schedule.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAWwBYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:22:24.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FinanceModel.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\Models\\FinanceModel.cs",
+              "RelativeDocumentMoniker": "Cybud_WPF_0.1\\Models\\FinanceModel.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\Models\\FinanceModel.cs",
+              "RelativeToolTip": "Cybud_WPF_0.1\\Models\\FinanceModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:19:25.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Schedule.xaml",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\Views\\Schedule.xaml",
+              "RelativeDocumentMoniker": "Cybud_WPF_0.1\\Views\\Schedule.xaml",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\Views\\Schedule.xaml",
+              "RelativeToolTip": "Cybud_WPF_0.1\\Views\\Schedule.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-12T19:14:17.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Chat.xaml",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\Views\\Chat.xaml",
+              "RelativeDocumentMoniker": "Cybud_WPF_0.1\\Views\\Chat.xaml",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\Views\\Chat.xaml",
+              "RelativeToolTip": "Cybud_WPF_0.1\\Views\\Chat.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-12T19:13:40.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FinanceManager.xaml",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\Views\\FinanceManager.xaml",
+              "RelativeDocumentMoniker": "Cybud_WPF_0.1\\Views\\FinanceManager.xaml",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\Views\\FinanceManager.xaml",
+              "RelativeToolTip": "Cybud_WPF_0.1\\Views\\FinanceManager.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-12T19:09:55.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LandingPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\Views\\LandingPage.xaml.cs",
+              "RelativeDocumentMoniker": "Cybud_WPF_0.1\\Views\\LandingPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\Views\\LandingPage.xaml.cs",
+              "RelativeToolTip": "Cybud_WPF_0.1\\Views\\LandingPage.xaml.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwDQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:08:43.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Cybud_WPF_0.1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Cybud_WPF_0.1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:08:22.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Cybud_WPF_0.1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\MainWindow.xaml",
+              "RelativeToolTip": "Cybud_WPF_0.1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-12T19:08:19.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LandingPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\Views\\LandingPage.xaml",
+              "RelativeDocumentMoniker": "Cybud_WPF_0.1\\Views\\LandingPage.xaml",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\Views\\LandingPage.xaml",
+              "RelativeToolTip": "Cybud_WPF_0.1\\Views\\LandingPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-12T19:03:55.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatAIService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\Models\\ChatAIService.cs",
+              "RelativeDocumentMoniker": "Cybud_WPF_0.1\\Models\\ChatAIService.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\Models\\ChatAIService.cs",
+              "RelativeToolTip": "Cybud_WPF_0.1\\Models\\ChatAIService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:03:01.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JournalView.xaml",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\Views\\JournalView.xaml",
+              "RelativeDocumentMoniker": "Cybud_WPF_0.1\\Views\\JournalView.xaml",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\Cybud_WPF_0.1\\Cybud_WPF_0.1\\Views\\JournalView.xaml",
+              "RelativeToolTip": "Cybud_WPF_0.1\\Views\\JournalView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-12T10:56:13.786Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
